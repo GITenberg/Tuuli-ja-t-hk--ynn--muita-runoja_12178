@@ -1,0 +1,25 @@
+_repo: Tuuli-ja-t-hk--ynn--muita-runoja_12178
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kailas, Uuno
+    birthdate: 1901
+    deathdate: 1933
+    gutenberg_agent_id: '4250'
+    url: http://www.gutenberg.org/2009/agents/4250
+    wikipedia: http://fi.wikipedia.org/wiki/Uuno_Kailas
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12178'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Poetry'
+- GITenberg
+title: Tuuli ja tähkä ynnä muita runoja
+url: http://www.gutenberg.org/ebooks/12178

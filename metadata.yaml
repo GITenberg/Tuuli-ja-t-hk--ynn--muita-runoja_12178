@@ -1,5 +1,8 @@
 _repo: Tuuli-ja-t-hk--ynn--muita-runoja_12178
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kailas, Uuno
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4250
     wikipedia: http://fi.wikipedia.org/wiki/Uuno_Kailas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12178#Tuuli-ja-t-hk--ynn--muita-runoja
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
